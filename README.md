@@ -17,7 +17,7 @@ The "Page Selector" component comprises multiple sub-pages, providing an organiz
 
 ## Usage
 ### Clone this repository to your local machine.
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/TOUMIOmar/Front-End-Project-Using-REACT.git
 ### Navigate to the project directory.
 cd your-repo
 ### Install the required dependencies.
